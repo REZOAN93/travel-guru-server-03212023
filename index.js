@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const hotel = require("./data/hotel.json");
+const room = require("./data/room.json");
 
 app.get("/", (req, res) => {
   res.send("Api is responding");
@@ -13,6 +14,10 @@ app.get("/", (req, res) => {
 
 app.get("/hotel", (req, res) => {
   res.send(hotel);
+});
+
+app.get("/room", (req, res) => {
+  res.send(room);
 });
 
 app.get("/hotel/:id", (req, res) => {
