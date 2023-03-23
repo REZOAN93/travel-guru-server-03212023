@@ -2,6 +2,7 @@
     {
       "Description": "Budget Room, 1 Queen Bed (Cityside)",
       "Description_fr": "Chambre Économique, 1 grand lit (côté ville)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Budget Room",
       "BaseRate": 96.99,
       "BedOptions": "1 Queen Bed",
@@ -12,6 +13,7 @@
     {
       "Description": "Budget Room, 1 King Bed (Mountain View)",
       "Description_fr": "Chambre Économique, 1 très grand lit (Mountain View)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Budget Room",
       "BaseRate": 80.99,
       "BedOptions": "1 King Bed",
@@ -22,6 +24,7 @@
     {
       "Description": "Deluxe Room, 2 Double Beds (City View)",
       "Description_fr": "Chambre Deluxe, 2 lits doubles (vue ville)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Deluxe Room",
       "BaseRate": 150.99,
       "BedOptions": "2 Double Beds",
@@ -32,6 +35,7 @@
     {
       "Description": "Standard Room, 1 King Bed (Amenities)",
       "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Standard Room",
       "BaseRate": 110.99,
       "BedOptions": "1 King Bed",
@@ -42,6 +46,7 @@
     {
       "Description": "Suite, 1 Queen Bed (Mountain View)",
       "Description_fr": "Suite, 1 grand lit (vue sur la montagne)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Suite",
       "BaseRate": 243.99,
       "BedOptions": "1 Queen Bed",
@@ -52,6 +57,7 @@
     {
       "Description": "Suite, 2 Queen Beds (Mountain View)",
       "Description_fr": "Suite, 2 grands lits (vue sur la montagne)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Suite",
       "BaseRate": 229.99,
       "BedOptions": "2 Queen Beds",
@@ -62,6 +68,7 @@
     {
       "Description": "Budget Room, 1 King Bed (Waterfront View)",
       "Description_fr": "Chambre Économique, 1 très grand lit (vue sur le front de mer)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Budget Room",
       "BaseRate": 87.99,
       "BedOptions": "1 King Bed",
@@ -72,6 +79,7 @@
     {
       "Description": "Suite, 1 King Bed (Waterfront View)",
       "Description_fr": "Suite, 1 très grand lit (vue sur le front de mer)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Suite",
       "BaseRate": 262.99,
       "BedOptions": "1 King Bed",
@@ -82,6 +90,7 @@
     {
       "Description": "Suite, 2 Double Beds (Mountain View)",
       "Description_fr": "Suite, 2 lits doubles (vue sur la montagne)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Suite",
       "BaseRate": 248.99,
       "BedOptions": "2 Double Beds",
@@ -92,6 +101,7 @@
     {
       "Description": "Suite, 1 King Bed (Mountain View)",
       "Description_fr": "Suite, 1 très grand lit (vue sur la montagne)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Suite",
       "BaseRate": 234.99,
       "BedOptions": "1 King Bed",
@@ -102,6 +112,7 @@
     {
       "Description": "Deluxe Room, 1 King Bed (City View)",
       "Description_fr": "Chambre Deluxe, 1 très grand lit (vue ville)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Deluxe Room",
       "BaseRate": 146.99,
       "BedOptions": "1 King Bed",
@@ -112,6 +123,7 @@
     {
       "Description": "Standard Room, 1 King Bed (Waterfront View)",
       "Description_fr": "Chambre Standard, 1 très grand lit (vue sur le front de mer)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Standard Room",
       "BaseRate": 121.99,
       "BedOptions": "1 King Bed",
@@ -122,6 +134,7 @@
     {
       "Description": "Standard Room, 2 Double Beds (City View)",
       "Description_fr": "Chambre Standard, 2 lits doubles (vue ville)",
+      "picture": "http://placehold.it/32x32",
       "Type": "Standard Room",
       "BaseRate": 128.99,
       "BedOptions": "2 Double Beds",
